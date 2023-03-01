@@ -1,0 +1,9 @@
+@import './src/utils/styles/colors';
+@import './src/utils/styles/mixins';
+
+.footer {
+  background-color: $secondary-color;
+  color: $accent-color;
+  padding: 30px;
+  width: 100%;
+}

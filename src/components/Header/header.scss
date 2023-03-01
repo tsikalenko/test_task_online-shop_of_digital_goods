@@ -1,0 +1,56 @@
+@import "./src/utils/styles/colors";
+@import "./src/utils/styles/mixins";
+
+.header {
+  background-color: $bg-main-color-transparent;
+  padding: 15px;
+  color: $main-color;
+  width: 100%;
+  position: fixed;
+  @include flex($dir: column);
+
+  @include respond(laptop){
+    @include flex($justify: space-between);
+    padding: 15px 30px;
+  }
+
+  &__mobile{
+    width: 100%;
+    @include flex($justify: space-between);
+
+    @include respond(laptop){
+      width: auto;
+    }
+  }
+
+  &__logo{
+    color: $accent-color;
+    font-weight: 900;
+    letter-spacing: 2px;
+    font-size: 20px;
+    text-transform: uppercase;
+  }
+
+  &__button {
+    font-size: 30px;
+    color: $accent-color;
+
+    @include respond(laptop){
+      display: none;
+    }
+  }
+
+  &__svg{
+    display: block;
+  }
+
+  &__menu{
+    display: block;
+    &--open{
+      display: none;
+      @include respond(laptop){
+        display: block;
+      }
+    }
+  }
+}
