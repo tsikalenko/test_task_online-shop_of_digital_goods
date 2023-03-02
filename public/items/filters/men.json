@@ -1,13 +1,9 @@
 [
   {
-    "_id": {
-      "$oid": "630e3778ec41c55e473613e1"
-    },
+    "_id": "630e3778ec41c55e473613e1",
     "enabled": true,
-    "name": "certina heritage ds-1 big date powermatic 80 c029.426.11.091.60",
-    "currentPrice": {
-      "$numberInt": "37560"
-    },
+    "name": "Certina heritage ds-1 big date powermatic 80 c029.426.11.091.60",
+    "currentPrice": 37560,
     "categories": "mens",
     "imageUrls": [
       "https://res.cloudinary.com/fe-advjs-final-project-3/image/upload/v1660054442/CERTINA_Heritage_DS-1-1_el6sn2.jpg",
@@ -15,9 +11,7 @@
       "https://res.cloudinary.com/fe-advjs-final-project-3/image/upload/v1660054442/CERTINA_Heritage_DS-1-3_f77isz.jpg",
       "https://res.cloudinary.com/fe-advjs-final-project-3/image/upload/v1660054442/CERTINA_Heritage_DS-1-4_tvykjc.jpg"
     ],
-    "quantity": {
-      "$numberInt": "0"
-    },
+    "quantity": 1,
     "color": "silver",
     "productUrl": "/product/00001",
     "brand": "certina",
@@ -25,26 +19,15 @@
     "material": "steel",
     "itemNo": "00001",
     "description": "Men's watch Certina from the Heritage collection - DS-1 Big Date Powermatic 80 Special Edition model C029.426.11.091.60. A collection with history and a nostalgic piece. This special issue is dedicated to the 60th anniversary of Double Security. The main feature of the model is the spring made of the innovative Nivachron material, which has anti-magnetic properties.",
-    "date": {
-      "$date": {
-        "$numberLong": "1662370649836"
-      }
-    },
-    "previousPrice": {
-      "$numberInt": "38560"
-    },
+    "previousPrice": 38560,
     "isNewProduct": false,
     "isPopularProduct": false
   },
   {
-    "_id": {
-      "$oid": "630e3778ec41c55e473613e2"
-    },
+    "_id": "630e3778ec41c55e473613e2",
     "enabled": true,
     "name": "certina aqua ds ph200m powermatic 80 c036.407.18.040.00",
-    "currentPrice": {
-      "$numberInt": "37200"
-    },
+    "currentPrice": 37200,
     "categories": "mens",
     "imageUrls": [
       "https://res.cloudinary.com/fe-advjs-final-project-3/image/upload/v1660054939/CERTINA_Aqua_DS_PH200M_Powermatic-1_iljbkp.jpg",
@@ -53,9 +36,7 @@
       "https://res.cloudinary.com/fe-advjs-final-project-3/image/upload/v1660054939/CERTINA_Aqua_DS_PH200M_Powermatic-2_britby.jpg",
       "https://res.cloudinary.com/fe-advjs-final-project-3/image/upload/v1660054939/CERTINA_Aqua_DS_PH200M_Powermatic-4_zqhgj3.jpg"
     ],
-    "quantity": {
-      "$numberInt": "5"
-    },
+    "quantity": 5,
     "color": "blue",
     "productUrl": "/product/00002",
     "itemNo": "00002",
@@ -63,34 +44,21 @@
     "mechanism": "mechanics",
     "material": "nylon",
     "description": "Men's watch Certina from the Aqua collection - DS PH200M, model C036.407.18.040.00. 316L hypoallergenic steel case, practical nylon Accessories. Movement: Automatic mechanical movement ETA 80.111 with Nivachron spring. It provides the watch with anti-magnetic protection. Power reserve: 80 hours. There is a date indicator.",
-    "date": {
-      "$date": {
-        "$numberLong": "1662718584726"
-      }
-    },
-    "previousPrice": {
-      "$numberInt": "36200"
-    },
+    "previousPrice": 36200,
     "isNewProduct": true,
     "isPopularProduct": true
   },
   {
-    "_id": {
-      "$oid": "630e3778ec41c55e473613eb"
-    },
+    "_id": "630e3778ec41c55e473613eb",
     "enabled": true,
-    "name": "fossil commuter fs5504",
-    "currentPrice": {
-      "$numberInt": "7000"
-    },
+    "name": "Fossil commuter fs5504",
+    "currentPrice": 7000,
     "categories": "mens",
     "imageUrls": [
       "https://res.cloudinary.com/fe-advjs-final-project-3/image/upload/v1660057345/FOSSIL_Commuter_FS5504-1_q3kwjz.jpg",
       "https://res.cloudinary.com/fe-advjs-final-project-3/image/upload/v1660057345/FOSSIL_Commuter_FS5504-2_d6niqe.jpg"
     ],
-    "quantity": {
-      "$numberInt": "10"
-    },
+    "quantity": 10,
     "color": "black",
     "productUrl": "/product/00011",
     "itemNo": "00011",
@@ -99,15 +67,8 @@
     "material": "leather",
     "description": "The watch is equipped with Japanese Miyota movement. The case is made of high quality stainless steel with a full black PVD coating. Black leather Accessories. Dial color - black. Indication - Roman numerals and labels. Strap fastener - buckle.",
     "isNew": true,
-    "date": {
-      "$date": {
-        "$numberLong": "1663350491114"
-      }
-    },
     "isNewProduct": true,
     "isPopularProduct": true,
-    "previousPrice": {
-      "$numberInt": "8000"
-    }
+    "previousPrice": 8000
   }
 ]
