@@ -17,4 +17,32 @@
       width: 30%;
     }
   }
+
+  &__filter {
+    @include flex($dir: column);
+    padding-bottom: 20px;
+    margin-bottom: 20px;
+    background-color: $dark-accent-color;
+    width: 100%;
+
+    @include respond(laptop) {
+      @include flex();
+      padding: 5px;
+      background-color: transparent;
+    }
+
+    &--close {
+      display: none;
+      @include respond(laptop) {
+        @include flex($dir: column);
+      }
+    }
+  }
+
+  &__label{
+    margin: 15px 0 5px;
+    @include respond(laptop){
+      margin: 0 10px 0 20px;
+    }
+  }
 }
