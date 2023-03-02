@@ -1,0 +1,23 @@
+{
+  "_id": "630e3778ec41c55e473613eb",
+  "enabled": true,
+  "name": "Fossil commuter fs5504",
+  "currentPrice": 7000,
+  "categories": "mens",
+  "imageUrls": [
+    "https://res.cloudinary.com/fe-advjs-final-project-3/image/upload/v1660057345/FOSSIL_Commuter_FS5504-1_q3kwjz.jpg",
+    "https://res.cloudinary.com/fe-advjs-final-project-3/image/upload/v1660057345/FOSSIL_Commuter_FS5504-2_d6niqe.jpg"
+  ],
+  "quantity": 10,
+  "color": "black",
+  "productUrl": "/product/00011",
+  "itemNo": "00011",
+  "brand": "fossil",
+  "mechanism": "quartz",
+  "material": "leather",
+  "description": "The watch is equipped with Japanese Miyota movement. The case is made of high quality stainless steel with a full black PVD coating. Black leather Accessories. Dial color - black. Indication - Roman numerals and labels. Strap fastener - buckle.",
+  "isNew": true,
+  "isNewProduct": true,
+  "isPopularProduct": true,
+  "previousPrice": 8000
+}

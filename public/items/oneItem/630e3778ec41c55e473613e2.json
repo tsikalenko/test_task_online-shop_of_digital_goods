@@ -1,0 +1,25 @@
+{
+  "_id": "630e3778ec41c55e473613e2",
+  "enabled": true,
+  "name": "certina aqua ds ph200m powermatic 80 c036.407.18.040.00",
+  "currentPrice": 37200,
+  "categories": "mens",
+  "imageUrls": [
+    "https://res.cloudinary.com/fe-advjs-final-project-3/image/upload/v1660054939/CERTINA_Aqua_DS_PH200M_Powermatic-1_iljbkp.jpg",
+    "https://res.cloudinary.com/fe-advjs-final-project-3/image/upload/v1660054939/CERTINA_Aqua_DS_PH200M_Powermatic-3_c2gk1r.jpg",
+    "https://res.cloudinary.com/fe-advjs-final-project-3/image/upload/v1660054939/CERTINA_Aqua_DS_PH200M_Powermatic-5_smuuwz.jpg",
+    "https://res.cloudinary.com/fe-advjs-final-project-3/image/upload/v1660054939/CERTINA_Aqua_DS_PH200M_Powermatic-2_britby.jpg",
+    "https://res.cloudinary.com/fe-advjs-final-project-3/image/upload/v1660054939/CERTINA_Aqua_DS_PH200M_Powermatic-4_zqhgj3.jpg"
+  ],
+  "quantity": 5,
+  "color": "blue",
+  "productUrl": "/product/00002",
+  "itemNo": "00002",
+  "brand": "certina",
+  "mechanism": "mechanics",
+  "material": "nylon",
+  "description": "Men's watch Certina from the Aqua collection - DS PH200M, model C036.407.18.040.00. 316L hypoallergenic steel case, practical nylon Accessories. Movement: Automatic mechanical movement ETA 80.111 with Nivachron spring. It provides the watch with anti-magnetic protection. Power reserve: 80 hours. There is a date indicator.",
+  "previousPrice": 36200,
+  "isNewProduct": true,
+  "isPopularProduct": true
+}

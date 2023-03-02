@@ -1,0 +1,24 @@
+{
+  "_id": "630e3778ec41c55e473613e1",
+  "enabled": true,
+  "name": "Certina heritage ds-1 big date powermatic 80 c029.426.11.091.60",
+  "currentPrice": 37560,
+  "categories": "mens",
+  "imageUrls": [
+    "https://res.cloudinary.com/fe-advjs-final-project-3/image/upload/v1660054442/CERTINA_Heritage_DS-1-1_el6sn2.jpg",
+    "https://res.cloudinary.com/fe-advjs-final-project-3/image/upload/v1660054442/CERTINA_Heritage_DS-1-2_sevbez.jpg",
+    "https://res.cloudinary.com/fe-advjs-final-project-3/image/upload/v1660054442/CERTINA_Heritage_DS-1-3_f77isz.jpg",
+    "https://res.cloudinary.com/fe-advjs-final-project-3/image/upload/v1660054442/CERTINA_Heritage_DS-1-4_tvykjc.jpg"
+  ],
+  "quantity": 1,
+  "color": "silver",
+  "productUrl": "/product/00001",
+  "brand": "certina",
+  "mechanism": "mechanics",
+  "material": "steel",
+  "itemNo": "00001",
+  "description": "Men's watch Certina from the Heritage collection - DS-1 Big Date Powermatic 80 Special Edition model C029.426.11.091.60. A collection with history and a nostalgic piece. This special issue is dedicated to the 60th anniversary of Double Security. The main feature of the model is the spring made of the innovative Nivachron material, which has anti-magnetic properties.",
+  "previousPrice": 38560,
+  "isNewProduct": false,
+  "isPopularProduct": false
+}

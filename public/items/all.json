@@ -1,0 +1,160 @@
+[
+  {
+    "_id": "630e3778ec41c55e473613e1",
+    "enabled": true,
+    "name": "Certina heritage ds-1 big date powermatic 80 c029.426.11.091.60",
+    "currentPrice": 37560,
+    "categories": "mens",
+    "imageUrls": [
+      "https://res.cloudinary.com/fe-advjs-final-project-3/image/upload/v1660054442/CERTINA_Heritage_DS-1-1_el6sn2.jpg",
+      "https://res.cloudinary.com/fe-advjs-final-project-3/image/upload/v1660054442/CERTINA_Heritage_DS-1-2_sevbez.jpg",
+      "https://res.cloudinary.com/fe-advjs-final-project-3/image/upload/v1660054442/CERTINA_Heritage_DS-1-3_f77isz.jpg",
+      "https://res.cloudinary.com/fe-advjs-final-project-3/image/upload/v1660054442/CERTINA_Heritage_DS-1-4_tvykjc.jpg"
+    ],
+    "quantity": 1,
+    "color": "silver",
+    "productUrl": "/product/00001",
+    "brand": "certina",
+    "mechanism": "mechanics",
+    "material": "steel",
+    "itemNo": "00001",
+    "description": "Men's watch Certina from the Heritage collection - DS-1 Big Date Powermatic 80 Special Edition model C029.426.11.091.60. A collection with history and a nostalgic piece. This special issue is dedicated to the 60th anniversary of Double Security. The main feature of the model is the spring made of the innovative Nivachron material, which has anti-magnetic properties.",
+    "previousPrice": 38560,
+    "isNewProduct": false,
+    "isPopularProduct": false
+  },
+  {
+    "_id": "630e3778ec41c55e473613e2",
+    "enabled": true,
+    "name": "certina aqua ds ph200m powermatic 80 c036.407.18.040.00",
+    "currentPrice": 37200,
+    "categories": "mens",
+    "imageUrls": [
+      "https://res.cloudinary.com/fe-advjs-final-project-3/image/upload/v1660054939/CERTINA_Aqua_DS_PH200M_Powermatic-1_iljbkp.jpg",
+      "https://res.cloudinary.com/fe-advjs-final-project-3/image/upload/v1660054939/CERTINA_Aqua_DS_PH200M_Powermatic-3_c2gk1r.jpg",
+      "https://res.cloudinary.com/fe-advjs-final-project-3/image/upload/v1660054939/CERTINA_Aqua_DS_PH200M_Powermatic-5_smuuwz.jpg",
+      "https://res.cloudinary.com/fe-advjs-final-project-3/image/upload/v1660054939/CERTINA_Aqua_DS_PH200M_Powermatic-2_britby.jpg",
+      "https://res.cloudinary.com/fe-advjs-final-project-3/image/upload/v1660054939/CERTINA_Aqua_DS_PH200M_Powermatic-4_zqhgj3.jpg"
+    ],
+    "quantity": 5,
+    "color": "blue",
+    "productUrl": "/product/00002",
+    "itemNo": "00002",
+    "brand": "certina",
+    "mechanism": "mechanics",
+    "material": "nylon",
+    "description": "Men's watch Certina from the Aqua collection - DS PH200M, model C036.407.18.040.00. 316L hypoallergenic steel case, practical nylon Accessories. Movement: Automatic mechanical movement ETA 80.111 with Nivachron spring. It provides the watch with anti-magnetic protection. Power reserve: 80 hours. There is a date indicator.",
+    "previousPrice": 36200,
+    "isNewProduct": true,
+    "isPopularProduct": true
+  },
+  {
+    "_id": "630e3778ec41c55e473613eb",
+    "enabled": true,
+    "name": "Fossil commuter fs5504",
+    "currentPrice": 7000,
+    "categories": "mens",
+    "imageUrls": [
+      "https://res.cloudinary.com/fe-advjs-final-project-3/image/upload/v1660057345/FOSSIL_Commuter_FS5504-1_q3kwjz.jpg",
+      "https://res.cloudinary.com/fe-advjs-final-project-3/image/upload/v1660057345/FOSSIL_Commuter_FS5504-2_d6niqe.jpg"
+    ],
+    "quantity": 10,
+    "color": "black",
+    "productUrl": "/product/00011",
+    "itemNo": "00011",
+    "brand": "fossil",
+    "mechanism": "quartz",
+    "material": "leather",
+    "description": "The watch is equipped with Japanese Miyota movement. The case is made of high quality stainless steel with a full black PVD coating. Black leather Accessories. Dial color - black. Indication - Roman numerals and labels. Strap fastener - buckle.",
+    "isNew": true,
+    "isNewProduct": true,
+    "isPopularProduct": true,
+    "previousPrice": 8000
+  },
+  {
+    "_id": "630e3778ec41c55e473613f5",
+    "enabled": true,
+    "name": "FREDERIQUE CONSTANT Ladies Automatic FC-310WHF2PD4",
+    "currentPrice": 168650,
+    "categories": "ladies",
+    "imageUrls": [
+      "https://res.cloudinary.com/fe-advjs-final-project-3/image/upload/v1660064048/FREDERIQUE_CONSTANT_Ladies_Automatic_FC-310WHF2PD4-1_nhkmf1.jpg",
+      "https://res.cloudinary.com/fe-advjs-final-project-3/image/upload/v1660064048/FREDERIQUE_CONSTANT_Ladies_Automatic_FC-310WHF2PD4-2_yvqpkd.jpg"
+    ],
+    "quantity": 15,
+    "color": "white",
+    "productUrl": "/product/00021",
+    "itemNo": "00021",
+    "brand": "frederique",
+    "mechanism": "mechanics",
+    "material": "leather",
+    "description": "Frederique Constant women's watch from the Ladies Automatic collection - model FC-310WHF2PD4. The Ladies Automatic collection represents women's mechanical watches. The main highlight of the collection is the chic diamonds on the dial. Case made of 316L hypoallergenic steel with gold plating. Genuine leather Accessories with folding clasp."
+  },
+  {
+    "_id": "630e3778ec41c55e473613f9",
+    "enabled": true,
+    "name": "FOSSIL Riley ES4519",
+    "currentPrice": 6560,
+    "categories": "ladies",
+    "imageUrls": [
+      "https://res.cloudinary.com/fe-advjs-final-project-3/image/upload/v1660065102/FOSSIL_Riley_ES4519-1_fudaxy.jpg",
+      "https://res.cloudinary.com/fe-advjs-final-project-3/image/upload/v1660065102/FOSSIL_Riley_ES4519-2_l4semp.jpg"
+    ],
+    "quantity": 8,
+    "color": "black",
+    "productUrl": "/product/00025",
+    "itemNo": "00025",
+    "brand": "fossil",
+    "mechanism": "quartz",
+    "material": "steel",
+    "description": "Fashion watch FOSSIL ES4519 from the Fossil Riley collection. Case and bracelet made of high quality coated stainless steel. Massive case with a diameter of 38 mm, black dial. Durable mineral glass. Inlaid with stones will add brightness to your wrist. In the Vector D online store you can also buy this Fossil women's watch in steel color or on a leather belt."
+  },
+  {
+    "_id": "630e3778ec41c55e473613fa",
+    "enabled": true,
+    "name": "Mens Morellato Stainless Steel Aquasport 2 Green",
+    "currentPrice": 600,
+    "categories": "accessories",
+    "imageUrls": [
+      "https://res.cloudinary.com/fe-advjs-final-project-3/image/upload/v1660498871/Stainless_Steel_Aquasport1_g2qn4u.jpg"
+    ],
+    "quantity": 4,
+    "color": "Green",
+    "productUrl": "/product/00026",
+    "itemNo": "00026",
+    "brand": "morellato",
+    "material": "Nylon"
+  },
+  {
+    "_id": "630e3778ec41c55e473613fb",
+    "enabled": true,
+    "name": "Morellato A01X2785237019CR20",
+    "currentPrice": 800,
+    "categories": "accessories",
+    "imageUrls": [
+      "https://res.cloudinary.com/fe-advjs-final-project-3/image/upload/v1660499023/Morellato_A01X2785237019CR20-1_ed3bqt.webp"
+    ],
+    "quantity": 2,
+    "color": "black",
+    "productUrl": "/product/00027",
+    "itemNo": "00027",
+    "brand": "morellato",
+    "material": "leather"
+  },
+  {
+    "_id": "630e3778ec41c55e473613fc",
+    "enabled": true,
+    "name": "Morellato A01X2269480027CR12",
+    "currentPrice": 900,
+    "categories": "accessories",
+    "imageUrls": [
+      "https://res.cloudinary.com/fe-advjs-final-project-3/image/upload/v1660499253/Morellato_A01X2269480027CR12-1_gkt6w2.jpg"
+    ],
+    "quantity": 6,
+    "color": "white",
+    "productUrl": "/product/00028",
+    "itemNo": "00028",
+    "brand": "morellato",
+    "material": "leather"
+  }
+]
