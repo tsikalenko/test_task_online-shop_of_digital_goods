@@ -46,7 +46,7 @@
 
   &__menu{
     display: block;
-    &--open{
+    &--close{
       display: none;
       @include respond(laptop){
         display: block;

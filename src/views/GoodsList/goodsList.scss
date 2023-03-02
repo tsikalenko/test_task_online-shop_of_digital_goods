@@ -1,0 +1,20 @@
+@import "src/utils/styles/mixins";
+
+.goods-list {
+  &__list {
+    @include flex($dir: column, $align: stretch);
+
+    @include respond(laptop) {
+      @include flex($wrap: wrap, $align: stretch, $justify: space-around)
+    }
+  }
+
+  &__item {
+    width: 100%;
+    margin-bottom: 20px;
+    @include respond(laptop) {
+      margin-bottom: 40px;
+      width: 30%;
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "_id": "630e3778ec41c55e473613fc",
+  "enabled": true,
+  "name": "Morellato A01X2269480027CR12",
+  "currentPrice": 900,
+  "categories": "accessories",
+  "imageUrls": [
+    "https://res.cloudinary.com/fe-advjs-final-project-3/image/upload/v1660499253/Morellato_A01X2269480027CR12-1_gkt6w2.jpg"
+  ],
+  "quantity": 6,
+  "color": "white",
+  "productUrl": "/product/00028",
+  "itemNo": "00028",
+  "brand": "morellato",
+  "material": "leather"
+}

@@ -1,0 +1,16 @@
+{
+  "_id": "630e3778ec41c55e473613fb",
+  "enabled": true,
+  "name": "Morellato A01X2785237019CR20",
+  "currentPrice": 800,
+  "categories": "accessories",
+  "imageUrls": [
+    "https://res.cloudinary.com/fe-advjs-final-project-3/image/upload/v1660499023/Morellato_A01X2785237019CR20-1_ed3bqt.webp"
+  ],
+  "quantity": 2,
+  "color": "black",
+  "productUrl": "/product/00027",
+  "itemNo": "00027",
+  "brand": "morellato",
+  "material": "leather"
+}

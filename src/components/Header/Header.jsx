@@ -20,17 +20,19 @@ const Header = () => {
                 <button className={'header__button'} onClick={handleMenu}>
                     <GiHamburgerMenu className={'header__svg'} />
                 </button>
-                <div className='header__logo'>Digital Shop</div>
+                <div className='header__logo'>
+                    <Link to={'/'}>Digital Shop</Link>
+                </div>
                 <Link to={'/cabinet'} className={'header__button'}>
                     <RiAccountCircleLine className={'header__svg'} />
                 </Link>
             </div>
             <nav
                 className={classNames('header__menu', {
-                    'header__menu--open': menuIsOpen,
+                    'header__menu--close': !menuIsOpen,
                 })}
             >
-                <ul className={'menu'}>
+                <ul className={'menu'} onClick={handleMenu}>
                     <li className={'menu__item'}>
                         <Link to={'/'}>Main</Link>
                     </li>

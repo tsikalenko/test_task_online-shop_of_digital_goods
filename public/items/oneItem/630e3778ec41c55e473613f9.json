@@ -1,0 +1,19 @@
+{
+  "_id": "630e3778ec41c55e473613f9",
+  "enabled": true,
+  "name": "FOSSIL Riley ES4519",
+  "currentPrice": 6560,
+  "categories": "ladies",
+  "imageUrls": [
+    "https://res.cloudinary.com/fe-advjs-final-project-3/image/upload/v1660065102/FOSSIL_Riley_ES4519-1_fudaxy.jpg",
+    "https://res.cloudinary.com/fe-advjs-final-project-3/image/upload/v1660065102/FOSSIL_Riley_ES4519-2_l4semp.jpg"
+  ],
+  "quantity": 8,
+  "color": "black",
+  "productUrl": "/product/00025",
+  "itemNo": "00025",
+  "brand": "fossil",
+  "mechanism": "quartz",
+  "material": "steel",
+  "description": "Fashion watch FOSSIL ES4519 from the Fossil Riley collection. Case and bracelet made of high quality coated stainless steel. Massive case with a diameter of 38 mm, black dial. Durable mineral glass. Inlaid with stones will add brightness to your wrist. In the Vector D online store you can also buy this Fossil women's watch in steel color or on a leather belt."
+}

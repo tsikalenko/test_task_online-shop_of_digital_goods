@@ -1,0 +1,16 @@
+{
+  "_id": "630e3778ec41c55e473613fa",
+  "enabled": true,
+  "name": "Mens Morellato Stainless Steel Aquasport 2 Green",
+  "currentPrice": 600,
+  "categories": "accessories",
+  "imageUrls": [
+    "https://res.cloudinary.com/fe-advjs-final-project-3/image/upload/v1660498871/Stainless_Steel_Aquasport1_g2qn4u.jpg"
+  ],
+  "quantity": 4,
+  "color": "Green",
+  "productUrl": "/product/00026",
+  "itemNo": "00026",
+  "brand": "morellato",
+  "material": "Nylon"
+}

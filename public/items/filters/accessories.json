@@ -1,0 +1,68 @@
+[
+  {
+    "_id": {
+      "$oid": "630e3778ec41c55e473613fa"
+    },
+    "enabled": true,
+    "name": "Mens Morellato Stainless Steel Aquasport 2 Green",
+    "currentPrice": {
+      "$numberInt": "600"
+    },
+    "categories": "accessories",
+    "imageUrls": [
+      "https://res.cloudinary.com/fe-advjs-final-project-3/image/upload/v1660498871/Stainless_Steel_Aquasport1_g2qn4u.jpg"
+    ],
+    "quantity": {
+      "$numberInt": "4"
+    },
+    "color": "Green",
+    "productUrl": "/product/00026",
+    "itemNo": "00026",
+    "brand": "morellato",
+    "material": "Nylon"
+  },
+  {
+    "_id": {
+      "$oid": "630e3778ec41c55e473613fb"
+    },
+    "enabled": true,
+    "name": "Morellato A01X2785237019CR20",
+    "currentPrice": {
+      "$numberInt": "800"
+    },
+    "categories": "accessories",
+    "imageUrls": [
+      "https://res.cloudinary.com/fe-advjs-final-project-3/image/upload/v1660499023/Morellato_A01X2785237019CR20-1_ed3bqt.webp"
+    ],
+    "quantity": {
+      "$numberInt": "2"
+    },
+    "color": "black",
+    "productUrl": "/product/00027",
+    "itemNo": "00027",
+    "brand": "morellato",
+    "material": "leather"
+  },
+  {
+    "_id": {
+      "$oid": "630e3778ec41c55e473613fc"
+    },
+    "enabled": true,
+    "name": "Morellato A01X2269480027CR12",
+    "currentPrice": {
+      "$numberInt": "900"
+    },
+    "categories": "accessories",
+    "imageUrls": [
+      "https://res.cloudinary.com/fe-advjs-final-project-3/image/upload/v1660499253/Morellato_A01X2269480027CR12-1_gkt6w2.jpg"
+    ],
+    "quantity": {
+      "$numberInt": "6"
+    },
+    "color": "white",
+    "productUrl": "/product/00028",
+    "itemNo": "00028",
+    "brand": "morellato",
+    "material": "leather"
+  }
+]
